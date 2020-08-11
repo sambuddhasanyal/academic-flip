@@ -1,5 +1,5 @@
 baseurl = "https://fliptanedo.netlify.com/"
-title = "Flip Tanedo"
+title = "Sambuddha Sanyal"
 copyright = "&copy; 2018 Philip (Flip) Tanedo"
 theme = "academic"
 
@@ -39,7 +39,7 @@ enableGitInfo = false
   email1 = "flip.tanedo" # using cryptedmail
   email2 = "ucr" # using cryptedmail
   email3 = "edu" # using cryptedmail
-  address = "3054 Physics Building, University of California, Riverside, CA 92521, USA"
+  address = "3054 Physics Building, University of California, Tirupati, CA 92521, USA"
   office_hours = "Email for appointment"
   phone = "x26168"
   # skype = "echo123"
