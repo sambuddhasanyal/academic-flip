@@ -31,34 +31,26 @@ group_logo = "logo/UCRHEP_03.png"
 [[education.courses]]
   course = "PhD in Physics"
   course_short = "PhD"
-  institution = "Cornell University"
-  institution_short = "Cornell"
-  year = 2013
-  logo = "/logo/icon_Co.png"
+  institution = "TIFR-Mumbai"
+  institution_short = "TIFR-Mumbai"
+  year = 2014
+  logo = "/logo/icon_T.png"
 
 [[education.courses]]
   course = "MSc in Physics"
   course_short = "MSc"
-  institution = "Durham University / IPPP"
-  institution_short = "Durham/IPPP"
-  year = 2008
+  institution = "IITD"
+  institution_short = "IIT-Delhi"
+  year = 2006
   logo = "/logo/icon_D.png"
 
 [[education.courses]]
-  course = "MASt in Mathematics"
-  course_short = "MASt"
-  institution = "Cambridge University"
-  institution_short = "Cambridge"
+  course = "BSc in Physics"
+  course_short = "BSc"
+  institution = "Calcutta University"
+  institution_short = "RKMVM-Belur"
   year = 2007
-  logo = "/logo/icon_Ca.png"
-
-[[education.courses]]
-  course = "BS in Physics & Mathematics"
-  course_short = "BS"
-  institution = "Stanford University"
-  institution_short = "Stanford"
-  year = 2008
-  logo = "/logo/icon_S.png"
+  logo = "/logo/icon_R.png"
 
 
 # List your academic interests.
@@ -75,7 +67,7 @@ group_logo = "logo/UCRHEP_03.png"
 
 **Flip Tanedo** is an assistant professor of theoretical physics at the University of California, Riverside. His research focuses on the particle physics of dark matter and related open questions in our understanding of nature.
 
-> UCI Chancellor's Advance Postdoctoral Fellow, 2014 - 2015  
-> Paul & Daisy Soros Fellowship, 2010 - 2012  
-> NSF Graduate Research Fellow, 2006 - 2011  
-> Marshall Scholarship, 2006 - 2008
+> PostDoctoral Fellow, Columbia University, New York, 2018-2019   
+> PostDoctoral Fellow, International Centre for Theoretical Sciences, Benguluru, 2015-2018
+> Research Associate, Indian Institute of Science, Benguluru, 2014-2015
+
