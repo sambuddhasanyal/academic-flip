@@ -6,7 +6,7 @@ date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "CV"
-subtitle = "Curriculum Vitae"
+subtitle = "Curriculum Vitae"  
 
 # Order that this section will appear in.
 weight = 2
@@ -21,10 +21,10 @@ group_logo = "logo/UCRHEP_03.png"
 # List your academic interests.
 [interests]
   interests = [
-    "Dark Matter",
-    "Composite Higgs",
-    "Extra Dimensions/SUSY",
-    "Astro/cosmo-particle"
+    "Quantum spin liquids",
+    "Quantum many-body physics",
+    "Chaos and thermalisation",
+    "Disordered many-body systems"
   ]
 
 # List your qualifications (such as academic degrees).
