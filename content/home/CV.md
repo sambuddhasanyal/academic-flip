@@ -12,7 +12,7 @@ subtitle = "Curriculum Vitae"
 weight = 2
 
 # CV location
-cv_pdf = "sambuddhasanyal_cv.pdf"
+cv_pdf = "./files/sambuddhasanyal_cv.pdf"
 
 # Group Logo
 group_logo = "logo/IISER_Tirupati_logo.png"
