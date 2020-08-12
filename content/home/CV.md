@@ -12,10 +12,10 @@ subtitle = "Curriculum Vitae"
 weight = 2
 
 # CV location
-cv_pdf = "./files/Tanedo.pdf"
+cv_pdf = "./files/sambuddhasanyal_cv.pdf"
 
 # Group Logo
-group_logo = "logo/UCRHEP_03.png"
+group_logo = "logo/IISER_Tirupati_logo.png"
 
 
 # List your academic interests.
