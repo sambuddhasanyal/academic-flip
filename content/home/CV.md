@@ -66,6 +66,7 @@ group_logo = "logo/UCRHEP_03.png"
 +++
 
 **Sambuddha Sanyal** is an assistant professor of physics at Indian Institute of Science Education and Research, Tirupati. His research focuses on the theoretical studies of strongly correlated many-body systems.
+
 > PostDoctoral Fellow, Columbia University, New York, 2018-2019   
 
 > PostDoctoral Fellow, ICTS Benguluru, 2015-2018
