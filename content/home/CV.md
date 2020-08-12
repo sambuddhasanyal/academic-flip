@@ -65,8 +65,7 @@ group_logo = "logo/UCRHEP_03.png"
 
 +++
 
-**Flip Tanedo** is an assistant professor of theoretical physics at the University of California, Riverside. His research focuses on the particle physics of dark matter and related open questions in our understanding of nature.
-
+**Sambuddha Sanyal** is an assistant professor of physics at Indian Institute of Science Education and Research, Tirupati. His research focuses on the theoretical studies of strongly correlated many-body systems.
 > PostDoctoral Fellow, Columbia University, New York, 2018-2019   
 
 > PostDoctoral Fellow, ICTS Benguluru, 2015-2018
