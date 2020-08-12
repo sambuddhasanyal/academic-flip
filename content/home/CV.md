@@ -44,8 +44,6 @@ group_logo = "logo/IISER_Tirupati_logo.png"
   logo = "/logo/icon_II.png"
 
 
-
-
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Physics"
