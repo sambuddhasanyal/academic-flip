@@ -68,6 +68,6 @@ group_logo = "logo/UCRHEP_03.png"
 **Flip Tanedo** is an assistant professor of theoretical physics at the University of California, Riverside. His research focuses on the particle physics of dark matter and related open questions in our understanding of nature.
 
 > PostDoctoral Fellow, Columbia University, New York, 2018-2019   
-> PostDoctoral Fellow, International Centre for Theoretical Sciences, Benguluru, 2015-2018
-> Research Associate, Indian Institute of Science, Benguluru, 2014-2015
+> PostDoctoral Fellow, ICTS Benguluru, 2015-2018
+> Research Associate, IISc Benguluru, 2014-2015
 
