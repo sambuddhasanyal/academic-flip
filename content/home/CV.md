@@ -31,34 +31,27 @@ group_logo = "logo/UCRHEP_03.png"
 [[education.courses]]
   course = "PhD in Physics"
   course_short = "PhD"
-  institution = "Cornell University"
-  institution_short = "Cornell"
-  year = 2013
-  logo = "/logo/icon_Co.png"
+  institution = "Tata Institute of Fundamental Research"
+  institution_short = "TIFR, Mumbai"
+  year = 2014
+  logo = "/logo/icon_T.png"
 
 [[education.courses]]
   course = "MSc in Physics"
   course_short = "MSc"
-  institution = "Durham University / IPPP"
-  institution_short = "Durham/IPPP"
+  institution = "Indian Institute of Technology, Delhi"
+  institution_short = "IIT-D"
   year = 2008
   logo = "/logo/icon_D.png"
 
 [[education.courses]]
-  course = "MASt in Mathematics"
-  course_short = "MASt"
-  institution = "Cambridge University"
-  institution_short = "Cambridge"
-  year = 2007
-  logo = "/logo/icon_Ca.png"
+  course = "BSc in Physics"
+  course_short = "BSc"
+  institution = "University of Calcutta"
+  institution_short = "RKMVM, Belur"
+  year = 2006
+  logo = "/logo/icon_R.png"
 
-[[education.courses]]
-  course = "BS in Physics & Mathematics"
-  course_short = "BS"
-  institution = "Stanford University"
-  institution_short = "Stanford"
-  year = 2008
-  logo = "/logo/icon_S.png"
 
 
 # List your academic interests.
