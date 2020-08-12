@@ -10,10 +10,10 @@ Order that this section will appear in.
 weight = 2
 
 CV location
-cv_pdf = "./files/Tanedo.pdf"
+cv_pdf = "./files/sambuddhasanyal_cv.pdf"
 
 Group Logo
-group_logo = "logo/UCRHEP_03.png"
+group_logo = "logo/IISER_Titupati_logo.png"
 
 List your academic interests.
 [interests] interests = [ "Dark Matter", "Composite Higgs", "Extra Dimensions/SUSY", "Astro/cosmo-particle" ]
