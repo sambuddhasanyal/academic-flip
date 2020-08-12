@@ -176,6 +176,13 @@ enableGitInfo = false
   name = "CV"
   url = "#CV"
   weight = 2
+  
+ 
+[[menu.main]]
+  name = "Past positions"
+  url = "#experience"
+  weight = 2
+  
 
 [[menu.main]]
   name = "Research"
