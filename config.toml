@@ -131,7 +131,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "arxiv"
     icon_pack = "ai"
-    link = "https://arxiv.org/find/hep-ph/1/au:+Tanedo_P/0/1/0/all/0/1"
+    link = "https://arxiv.org/search/?query=Sanyal%2C+Sambuddha&searchtype=author&source=header"
     cv = true
 
   #[[params.social]]
