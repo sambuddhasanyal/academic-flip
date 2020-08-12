@@ -9,11 +9,11 @@ title = "CV" subtitle = "Curriculum Vitae"
 Order that this section will appear in.
 weight = 2
 
-CV location
+# CV location
 cv_pdf = "./files/sambuddhasanyal_cv.pdf"
 
-Group Logo
-group_logo = "logo/IISER_Titupati_logo.png"
+# Group Logo
+group_logo = "logo/IISER_Tirupati_logo.png"
 
 List your academic interests.
 [interests] interests = [ "Dark Matter", "Composite Higgs", "Extra Dimensions/SUSY", "Astro/cosmo-particle" ]
