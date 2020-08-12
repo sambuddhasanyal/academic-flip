@@ -17,15 +17,34 @@ cv_pdf = "./files/sambuddhasanyal_cv.pdf"
 # Group Logo
 group_logo = "logo/IISER_Tirupati_logo.png"
 
+# List of your past jobs.
+[[education.courses]]
+  course = "PostDoc"
+  course_short = "PostDoc"
+  institution = "Columbia University"
+  institution_short = "Columbia University, New York"
+  year = 2018-19
+  logo = "/logo/icon_C.png"
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Dark Matter",
-    "Composite Higgs",
-    "Extra Dimensions/SUSY",
-    "Astro/cosmo-particle"
-  ]
+[[education.courses]]
+ course = "PostDoc"
+  course_short = "PostDoc"
+  institution = "ICTS"
+  institution_short = "ICTS, Bengaluru"
+  year = 2015-18
+  logo = "/logo/icon_I.png"
+
+
+[[education.courses]]
+  course = "PostDoc"
+  course_short = "PostDoc"
+  institution = "IISc"
+  institution_short = "IISs, Bengaluru"
+  year = 2014-15
+  logo = "/logo/icon_II.png"
+
+
+
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
