@@ -34,7 +34,7 @@ enableGitInfo = false
   organizations = [ { name = "IISER-TPT", url = "http://www.iisertirupati.ac.in" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "img/profile/sam1.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   # email = "flip@example.org"
   email1 = "sambuddha.sanyal" # using cryptedmail
   email2 = "iisertitupati" # using cryptedmail
