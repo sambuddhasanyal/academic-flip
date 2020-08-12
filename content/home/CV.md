@@ -54,14 +54,14 @@ group_logo = "logo/UCRHEP_03.png"
 
 
 # List your academic interests.
-[service]
-  service = [
-    "Open House Committee (chair)",
-    "Website Committee (chair)",
-    "Graduate Diversity Committee",
-    "[Graduate Student Mentor](https://gradmentors.ucr.edu)",
-    "[Reviewer](https://publons.com/author/637273/)"
-  ]
+# [service]
+ # service = [
+ #   "Open House Committee (chair)",
+ #   "Website Committee (chair)",
+ #   "Graduate Diversity Committee",
+ #   "[Graduate Student Mentor](https://gradmentors.ucr.edu)",
+ #   "[Reviewer](https://publons.com/author/637273/)"
+ # ]
 
 +++
 
