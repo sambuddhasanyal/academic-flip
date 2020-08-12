@@ -32,7 +32,7 @@ List your academic interests.
 
 Flip Tanedo is an assistant professor of theoretical physics at the University of California, Riverside. His research focuses on the particle physics of dark matter and related open questions in our understanding of nature.
 
-UCI Chancellor's Advance Postdoctoral Fellow, 2014 - 2015
-Paul & Daisy Soros Fellowship, 2010 - 2012
-NSF Graduate Research Fellow, 2006 - 2011
-Marshall Scholarship, 2006 - 2008
+>UCI Chancellor's Advance Postdoctoral Fellow, 2014 - 2015
+>Paul & Daisy Soros Fellowship, 2010 - 2012
+>NSF Graduate Research Fellow, 2006 - 2011
+>Marshall Scholarship, 2006 - 2008
